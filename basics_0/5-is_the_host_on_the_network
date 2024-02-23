@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#ping the IP which given as argument
+
+ping -c 5 $1
